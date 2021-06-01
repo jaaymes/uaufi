@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Jaymes Costa",
+      "data_nasc": "09/05/1990",
+      "rua": "Rua Presidente João Goulart",
+      "numero": "555",
+      "bairro": "Vila Alba",
+      "cidade": "Araçatuba",
+      "estado": "São Paulo",
+      "id": 1
+    }
+  ]
+}
