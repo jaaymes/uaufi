@@ -1,5 +1,7 @@
 # uaufi 
 
+git clone https://github.com/jaaymes/uaufi.git
+
 o inicio do projeto é dividido em 3 partes
 
 
